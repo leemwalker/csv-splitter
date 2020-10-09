@@ -6,7 +6,7 @@ Workflow:
 4. Prompt for header choice and values to look for
 5. Display one sample line for each value prompted for
 6. Sort the file by the header choice
-7. Split into multiple CSVs based off of x header values
+7. Output single CSV based off of x header values
 """
 
 import csv
